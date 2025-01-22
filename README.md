@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 Cheguei aqui por acaso. Estou criando um espaço para poder por em prática os meus aprendizados, por isso está em construçáo.
 ... nos vemos por aqui!
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+          
